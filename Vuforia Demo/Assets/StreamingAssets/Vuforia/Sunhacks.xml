@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="nametag_duck" size="10.000000 7.500000" />
+    <ImageTarget name="Mason_nametag" size="10.000000 6.971201" />
+    <ImageTarget name="Jake_nametag" size="10.000000 7.165563" />
+    <ImageTarget name="batman_nametag" size="10.000000 7.129987" />
+    <ImageTarget name="Jon_Nametag" size="20.000000 14.010363" />
+    <ImageTarget name="amazon_table" size="100.000000 26.635874" />
+    <ImageTarget name="statefam_logo" size="10.000000 2.644655" />
+    <ImageTarget name="MLH_table" size="10.000000 4.269886" />
+    <ImageTarget name="GoDaddy_table2" size="10.000000 3.133405" />
+    <ImageTarget name="GoDaddy_table" size="10.000000 3.934378" />
+    <ImageTarget name="esri_logo" size="20.000000 8.883962" />
+    <ImageTarget name="sf_logo" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
